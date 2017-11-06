@@ -1,5 +1,5 @@
 ---
-- name: This is a hello-world example
+- name: This is a hello-world1 example
   hosts: ec2-13-56-222-195.us-west-1.compute.amazonaws.com
   tasks:
   - name: Create a file called 'helloworld.html' with the content 'hello world'.
